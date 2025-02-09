@@ -50,8 +50,8 @@ const Experience = () => {
     {
       id: 7,
       src: graphql,
-      title: "GraphQL",
-      style: "shadow-pink-400",
+      title: "Laracel",
+      style: "shadow-gray-400",
     },
     {
       id: 8,
